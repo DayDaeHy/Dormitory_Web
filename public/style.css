@@ -1,0 +1,83 @@
+.navbar-brand img {
+  height: 30px;
+}
+
+.nav-link {
+  margin-right: 15px;
+}
+
+.navbar {
+  justify-content: flex-start;
+}
+
+.navbar-collapse {
+  justify-content: flex-start;
+}
+
+.navbar-nav {
+  flex-direction: row;
+}
+
+.main-text {
+  margin-top: 20px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.table-row-spacing td  {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.table-head th{
+  border-top: 3px solid;
+  border-bottom: 1px solid;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+d
+.btn-margin {
+  margin-right: 10px;
+}
+
+body {
+  font-family: '돋움체';
+  font-weight: bold;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+.table th, .table td {
+  vertical-align: middle;
+}
+
+.section h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 0.25rem;
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+  border-color: #004085;
+}
+
+.table a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.table a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
